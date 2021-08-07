@@ -1,4 +1,8 @@
 ### Hi there 👋
+#### 暨南大学学生 CS专业在读
+#### 想成为六边形战士
+- QQ ： 2675423670
+- WeChat： omegachen7
 
 <!--
 **nnnnnnnextday/nnnnnnnextday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
