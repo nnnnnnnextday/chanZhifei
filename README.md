@@ -1,8 +1,6 @@
 ### Hi there 
 #### 苟全性命于乱世
 #### 不求闻达于诸侯
-- QQ ： 2675423670
-- WeChat： omegachen7
 
 <!--
 **nnnnnnnextday/nnnnnnnextday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
